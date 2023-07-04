@@ -2,6 +2,7 @@
    "name": "N1ghtTheF0x's VRChat Packages",
    "id": "com.n1ghtthef0x.vrcp",
    "url": "https://n1ghtthef0x.github.io/vrchat-repo/index.json",
+   "author": "N1ghtTheF0x",
    "packages": {
         "com.n1ghtthef0x.datetrigger": {
             "1.1.2": {
