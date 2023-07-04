@@ -4,7 +4,7 @@
    "url": "https://n1ghtthef0x.github.io/vrchat-repo/index.json",
    "author": "N1ghtTheF0x",
    "packages": {
-        "com.n1ghtthef0x.datetrigger": {
+        "ntf.vrchat.datetrigger": {
             "1.2.0": {
               "name": "ntf.vrchat.datetrigger",
               "displayName": "DateTrigger",
