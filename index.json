@@ -1,0 +1,13 @@
+{
+   "name": "N1ghtTheF0x's VRChat Packages",
+   "id": "com.n1ghtthef0x.vrcp",
+   "url": "https://n1ghtthef0x.github.io/vrchat-repo/index.json",
+   "packages": {
+        "com.n1ghtthef0x.datetrigger": {
+            "1.1.2": {
+                "name": "com.n1ghtthef0x",
+                "url": "https://github.com/N1ghtTheF0x/vrchat-DateTrigger/archive/refs/tags/1.1.2.zip"
+            }
+        }
+   }
+}
