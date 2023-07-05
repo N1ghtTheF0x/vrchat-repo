@@ -7,7 +7,6 @@
         "ntf.vrchat.datetrigger": {
             "versions": {
                "1.2.0": {
-                 
                  "name": "ntf.vrchat.datetrigger",
                  "displayName": "DateTrigger",
                  "version": "1.2.0",
@@ -26,7 +25,7 @@
                  },
                  "legacyFiles": {},
                  "license": "NTF",
-                 "url": "https://github.com/N1ghtTheF0x/vrchat-DateTrigger/releases/download/1.2.0/DateTrigger-1.2.0.zip",
+                 "url": "https://github.com/N1ghtTheF0x/vrchat-DateTrigger/releases/download/1.2.0/DateTrigger-1.2.0.zip?",
                  "samples": [
                    {
                      "displayName": "DateTrigger Example",
