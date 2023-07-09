@@ -1,7 +1,8 @@
-# VPM Repository (currently empty)
+# [N1ghtTheF0x's VPM Repository][vpm-link]
 
-There are currently no plans for a VPM Repo, but you can download my Packages here:
+This VPM Repository contains the following:
 
 - [DateTrigger][datetrigger-url]
 
-[datetrigger-url]: https://github.com/N1ghtTheF0x/vrchat-DateTrigger/releases/latest
+[datetrigger-url]: https://github.com/N1ghtTheF0x/vrchat-DateTrigger
+[vpm-link]: https://n1ghtthef0x.github.io/vrchat-repo/
