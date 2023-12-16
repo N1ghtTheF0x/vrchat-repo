@@ -27,7 +27,7 @@ Animate game objects based on time and/or date locally/globally
 
 ### Example
 
-Let's say it's 6:00:00 PM and our Hour Check is from `6` to `13`:
+Let's say it's 6:00:00 AM and our Hour Check is from `6` to `13`:
 
 `Exclusive` won't trigger because the `6` is ignored  
 `Inclusive` will trigger because the `6` is included
