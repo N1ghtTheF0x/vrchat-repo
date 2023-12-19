@@ -71,6 +71,36 @@
                         "n1ghtthef0x/DateTrigger": ""
                     },
                     "legacyFiles": {}
+                },
+                "1.5.1": {
+                    "name": "ntf.vrchat.datetrigger",
+                    "version": "1.5.1",
+                    "description": "Animate game objects based on time and/or date of the VRChat Servers or local Time",
+                    "displayName": "DateTrigger",
+                    "unity": "2022.3",
+                    "author": {
+                        "name": "N1ghtTheF0x",
+                        "email": "N1ghtTheF0x@proton.me",
+                        "url": "https://github.com/N1ghtTheF0x"
+                    },
+                    "dependencies": {},
+                    "keywords": [
+                        "vrchat",
+                        "udonsharp",
+                        "udon",
+                        "date",
+                        "time",
+                        "csharp"
+                    ],
+                    "samples": [],
+                    "vpmDependencies": {
+                        "com.vrchat.worlds": "^3.5.0"
+                    },
+                    "url": "https://github.com/N1ghtTheF0x/vrchat-DateTrigger/releases/download/1.5.1/DateTrigger-1.5.1.zip?",
+                    "legacyFolders": {
+                        "n1ghtthef0x/DateTrigger": ""
+                    },
+                    "legacyFiles": {}
                 }
             }
         }

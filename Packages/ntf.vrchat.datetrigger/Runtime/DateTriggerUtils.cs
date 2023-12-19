@@ -12,7 +12,7 @@ namespace NTF.VRChat
         }
         public static bool InInclusiveRange(DayOfWeek value,DayOfWeek from,DayOfWeek to)
         {
-            return value >= from && value <= to;
+            return InInclusiveRange((int)value,(int)from,(int)to);
         }
         public static bool InExclusiveRange(int value, int from, int to)
         {
@@ -20,7 +20,7 @@ namespace NTF.VRChat
         }
         public static bool InExclusiveRange(DayOfWeek value, DayOfWeek from, DayOfWeek to)
         {
-            return value > from && value < to;
+            return InExclusiveRange((int)value,(int)from,(int)to);
         }
         public static DateTime GetDateTime(DateTriggerDateTimeMethod method)
         {
