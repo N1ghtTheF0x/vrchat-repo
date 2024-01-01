@@ -103,6 +103,37 @@
                     "legacyFiles": {}
                 }
             }
+        },
+        "ntf.vrchat.mat": {
+            "versions": {
+                "1.0.0": {
+                    "name": "ntf.vrchat.mat",
+                    "version": "1.0.0",
+                    "description": "Play layered audio tracks (dynamic music)",
+                    "displayName": "Multi Audio Track",
+                    "unity": "2022.3",
+                    "author": {
+                        "name": "N1ghtTheF0x",
+                        "email": "N1ghtTheF0x@proton.me",
+                        "url": "https://github.com/N1ghtTheF0x"
+                    },
+                    "dependencies": {},
+                    "keywords": [
+                        "vrchat",
+                        "udonsharp",
+                        "udon",
+                        "audio",
+                        "track"
+                    ],
+                    "samples": [],
+                    "vpmDependencies": {
+                        "com.vrchat.worlds": "^3.5.0"
+                    },
+                    "url": "",
+                    "legacyFolders": {},
+                    "legacyFiles": {}
+                }
+            }
         }
     }
 }
