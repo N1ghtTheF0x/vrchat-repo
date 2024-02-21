@@ -1,7 +1,7 @@
 {
     "name": "N1ghtTheF0x's VRChat Packages",
     "id": "ntf.vrchat.repository",
-    "url": "https://n1ghtthef0x.github.io/vrchat-repo/index.json",
+    "url": "http://info.nightwashere.de/vrchat-repo/index.json",
     "author": "N1ghtTheF0x",
     "packages": {
         "ntf.vrchat.datetrigger": {
