@@ -1,12 +1,12 @@
 {
     "name": "ntf.vrchat.mat",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Play layered audio tracks (dynamic music)",
     "displayName": "Multi Audio Track",
     "unity": "2022.3",
     "author": {
         "name": "N1ghtTheF0x",
-        "email": "N1ghtTheF0x@proton.me",
+        "email": "kilo.night.prower@gmail.com",
         "url": "https://github.com/N1ghtTheF0x"
     },
     "dependencies": {},
@@ -15,7 +15,7 @@
         
     ],
     "vpmDependencies": {
-        "com.vrchat.worlds": "^3.5.0"
+        "com.vrchat.worlds": "^3.7.6"
     },
     "url": "https://github.com/N1ghtTheF0x/vrchat-repo/releases/download/mat-1.0.0/MultiAudioTrack-1.0.0.zip?",
     "legacyFolders": {},

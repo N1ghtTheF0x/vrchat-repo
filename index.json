@@ -1,7 +1,7 @@
 {
     "name": "N1ghtTheF0x's VRChat Packages",
     "id": "ntf.vrchat.repository",
-    "url": "http://info.nightwashere.de/vrchat-repo/index.json",
+    "url": "https://n1ghtthef0x.github.io/vrchat-repo//index.json",
     "author": "N1ghtTheF0x",
     "packages": {
         "ntf.vrchat.datetrigger": {
@@ -101,6 +101,36 @@
                         "n1ghtthef0x/DateTrigger": ""
                     },
                     "legacyFiles": {}
+                },
+                "1.5.2": {
+                    "name": "ntf.vrchat.datetrigger",
+                    "version": "1.5.2",
+                    "description": "Animate game objects based on time and/or date of the VRChat Servers or local Time",
+                    "displayName": "DateTrigger",
+                    "unity": "2022.3",
+                    "author": {
+                        "name": "N1ghtTheF0x",
+                        "email": "kilo.night.prower@gmail.com",
+                        "url": "https://github.com/N1ghtTheF0x"
+                    },
+                    "dependencies": {},
+                    "keywords": [
+                        "vrchat",
+                        "udonsharp",
+                        "udon",
+                        "date",
+                        "time",
+                        "csharp"
+                    ],
+                    "samples": [],
+                    "vpmDependencies": {
+                        "com.vrchat.worlds": "^3.7.6"
+                    },
+                    "url": "https://github.com/N1ghtTheF0x/vrchat-repo/releases/download/dt-1.5.2/DateTrigger-1.5.2.zip?",
+                    "legacyFolders": {
+                        "n1ghtthef0x/DateTrigger": ""
+                    },
+                    "legacyFiles": {}
                 }
             }
         },
@@ -128,6 +158,33 @@
                     "samples": [],
                     "vpmDependencies": {
                         "com.vrchat.worlds": "^3.5.0"
+                    },
+                    "url": "https://github.com/N1ghtTheF0x/vrchat-repo/releases/download/mat-1.0.0/MultiAudioTrack-1.0.0.zip?",
+                    "legacyFolders": {},
+                    "legacyFiles": {}
+                },
+                "1.0.1": {
+                    "name": "ntf.vrchat.mat",
+                    "version": "1.0.1",
+                    "description": "Play layered audio tracks (dynamic music)",
+                    "displayName": "Multi Audio Track",
+                    "unity": "2022.3",
+                    "author": {
+                        "name": "N1ghtTheF0x",
+                        "email": "kilo.night.prower@gmail.com",
+                        "url": "https://github.com/N1ghtTheF0x"
+                    },
+                    "dependencies": {},
+                    "keywords": [
+                        "vrchat",
+                        "udonsharp",
+                        "udon",
+                        "audio",
+                        "track"
+                    ],
+                    "samples": [],
+                    "vpmDependencies": {
+                        "com.vrchat.worlds": "^3.7.6"
                     },
                     "url": "https://github.com/N1ghtTheF0x/vrchat-repo/releases/download/mat-1.0.0/MultiAudioTrack-1.0.0.zip?",
                     "legacyFolders": {},

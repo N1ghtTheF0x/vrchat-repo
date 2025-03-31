@@ -7,9 +7,9 @@ const PackagesPath = resolve(__dirname,"..","Packages")
 const indexPath = resolve(__dirname,"..","index.json")
 
 const packages = readdirSync(PackagesPath,{withFileTypes: true}).filter((folder) => folder.name.startsWith("ntf.vrchat") && folder.isDirectory())
-                
+
 const packagesPath = packages
-                    .map((folder) => resolve(folder.path,folder.name,"package.json"))
+                    .map((folder) => resolve(folder.parentPath,folder.name,"package.json"))
 
 const index = JSON.parse(readFileSync(indexPath,"utf-8"))
 

@@ -1,30 +1,16 @@
 {
   "dependencies": {
-    "com.vrchat.core.vpm-resolver": {
-      "version": "0.1.26"
-    },
-    "com.vrchat.worlds": {
-      "version": "3.5.0"
-    },
     "sh.orels.shaders": {
       "version": "6.3.0"
+    },
+    "com.vrchat.worlds": {
+      "version": "3.7.6"
+    },
+    "com.vrchat.core.vpm-resolver": {
+      "version": "0.1.29"
     }
   },
   "locked": {
-    "com.vrchat.core.vpm-resolver": {
-      "version": "0.1.27",
-      "dependencies": {}
-    },
-    "com.vrchat.worlds": {
-      "version": "3.5.0",
-      "dependencies": {
-        "com.vrchat.base": "3.5.0"
-      }
-    },
-    "com.vrchat.base": {
-      "version": "3.5.0",
-      "dependencies": {}
-    },
     "sh.orels.shaders": {
       "version": "6.3.0",
       "dependencies": {
@@ -38,6 +24,20 @@
     },
     "sh.orels.shaders.inspector": {
       "version": "6.3.0",
+      "dependencies": {}
+    },
+    "com.vrchat.worlds": {
+      "version": "3.7.6",
+      "dependencies": {
+        "com.vrchat.base": "3.7.6"
+      }
+    },
+    "com.vrchat.base": {
+      "version": "3.7.6",
+      "dependencies": {}
+    },
+    "com.vrchat.core.vpm-resolver": {
+      "version": "0.1.29",
       "dependencies": {}
     }
   }
